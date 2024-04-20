@@ -6,16 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-
-<!-- - 🌱 I’m currently learning **ReactJS.** -->
-
-<!-- - 👯 I’m looking to collaborate on ** ** -->
-
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/TrongPhan1011)** -->
 
 - 📫 How to reach me **huutrong2k1@gmail.com**
-
-- ⚡ Fun fact **I play games and read manga very often.**
 
 ## 🚀 Languages and Tools:
 
